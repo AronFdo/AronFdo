@@ -5,10 +5,10 @@
 
 ## 💻 About Me
 
-Curious and innovative tech enthusiast with a passion for Software Development and AI/ML. Currently pursuing a Bachelor of Computer Science at Informatics Institute of Technology, Sri Lanka. I blend technical skills with marketing expertise to create solutions that are both functional and user-focused.
+Curious and innovative tech enthusiast with a passion for Software Development and AI/ML. Currently pursuing a Bachelor of Computer Science at Informatics Institute of Technology, Sri Lanka. I love to build applications that makes tech admirable to the non-technical. Also, I'm a marketer for reasons I still don't know.
 
 - 🔭 **Currently working on**: Agentic AI applications and LLM implementations
-- 🌱 **Learning**: Advanced AI engineering concepts and agent frameworks
+- 🌱 **Learning**: Machine Learning and AI engineering concepts
 - 👨‍💻 **Working as**: Web Developer & Designer at Mask'd Digital
 - 🚀 **Aspiring**: AI Engineer with focus on practical applications
 
